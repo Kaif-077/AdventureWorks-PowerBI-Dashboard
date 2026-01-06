@@ -25,9 +25,6 @@ This Power BI project analyzes the **AdventureWorks Support dataset** to provide
 - Agent Performance
 - SLA & Resolution Time Analysis
 
-## 📸 Dashboard Preview
-![Dashboard Overview](screenshots/overview.png)
-
 ## 📂 Files Included
 - `.pbix` Power BI report
 - Screenshots of dashboards
